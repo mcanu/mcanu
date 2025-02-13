@@ -1,6 +1,6 @@
 ## Hi there, I'm Marcel 👋
 
-💻 Software Engineer\
+
 🍏 Co-founder of [Buen Provecho](https://www.buenprovechoapp.com/)\
 👨‍💻 Software Engineer at [HumanSignal](https://humansignal.com/)\
 🇺🇾 Montevideo, Uruguay\
