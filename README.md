@@ -2,7 +2,7 @@
 
 
 🍏 Co-founder of [Buen Provecho](https://www.buenprovechoapp.com/)\
-👨‍💻 Software Engineer at [HumanSignal](https://humansignal.com/)\
+👨‍💻 Senior Software Engineer at [HumanSignal](https://humansignal.com/)\
 🇺🇾 Montevideo, Uruguay\
 🌎 Working remotely
 
